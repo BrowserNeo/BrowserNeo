@@ -1,6 +1,8 @@
                                                             👀 
 
-- 👋 Hi, I’m George
+
+                                              👋       Hi, I’m George
+
 
 - 🌱 I’m currently learning QA Automation
 
