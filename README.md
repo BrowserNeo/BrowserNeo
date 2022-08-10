@@ -1,7 +1,12 @@
+                        👀 
+
 - 👋 Hi, I’m George
-- 👀 I’m interested in QA
+
 - 🌱 I’m currently learning QA Automation
+
 - 💞️ I’m working now in Yandex (QA manual)
+
+
 
 <!---
 BrowserNeo/BrowserNeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
