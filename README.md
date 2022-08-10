@@ -4,9 +4,12 @@
                                                   👋    Hi, I’m George
 
 
+
 - 🌱 I’m currently learning QA Automation
 
 - 💞️ I’m working now in Yandex (QA manual)
+
+
 
 
 
