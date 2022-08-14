@@ -12,8 +12,11 @@
 
 # Technology stack
 
+### Technology stack
 
-stack/GitHub.svg
+<img width="6%" title="Allure_Report.svg" src="steck/Allure_Report.svg"><img width="6%" title="GitHub.svg" src="steck/GitHub.svg"><
+<img width="6%" title="Jenkins.svg" src="steck/Jenkins.svg"><img width="6%" title="Selenide.svg" src="steck/Selenide.svg"><img width="6%" title="Selenoid.svg" src="steck/Selenoid.svg">
+
 
 <!---
 BrowserNeo/BrowserNeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
