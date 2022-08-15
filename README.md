@@ -1,13 +1,16 @@
-                                                            👀 
+      
+       Hi, I’m George
+       
 
-
-                                              👋 <img src="steck/wave.gif" width="30px">    Hi, I’m George
-
-
-
+  <img src="steck/wave.gif" width="30px">
+  
+  
+  
 - 🌱 I’m working now in Yandex (QA manual)
 
 - 💞️ I’m currently learning QA Automation
+
+
 
 
 
