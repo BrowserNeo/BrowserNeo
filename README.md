@@ -40,7 +40,7 @@
 <br>
 
 
-[<img src="https://img.shields.io/badge/hh-HeadHunter-red" />](https://hh.ru/resume/b8cebd05ff0b36cf520039ed1f7968436c424b)
+
 
 
 
