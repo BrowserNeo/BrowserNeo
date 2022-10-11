@@ -14,7 +14,7 @@
   
   ##  QA Engineer
   
-- 🌱 I’m working now in Yandex (QA manual)
+- 🌱 I’m working now in TEDU (QA)
 
 - 💞️ I’m currently learning QA Automation
 
