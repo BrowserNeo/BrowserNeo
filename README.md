@@ -15,12 +15,12 @@
   <img src="steck/wave.gif" width="30px">
   
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+George;QA+Engineer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+George;QA+Engineer;Load+testing;QA+Automation+Python;QA+Automation+Playwright)](https://git.io/typing-svg)
   ##  
   
 - 🌱 I’m working now in TEDU 
 
-- 💞️ I’m currently learning QA Automation
+- 💞️ I’m currently learning Dev'ops
 
 <br>
 
