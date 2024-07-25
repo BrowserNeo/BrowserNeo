@@ -2,7 +2,7 @@
 [![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/browserneo)
 
 
-       Hi, I’m George
+      
        
 
 
@@ -11,8 +11,8 @@
   <img src="steck/wave.gif" width="30px">
   
   
-  
-  ##  QA Engineer
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+George;QA+Engineer)](https://git.io/typing-svg)
+  ##  
   
 - 🌱 I’m working now in TEDU (QA)
 
