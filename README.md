@@ -14,7 +14,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+George;QA+Engineer)](https://git.io/typing-svg)
   ##  
   
-- 🌱 I’m working now in TEDU (QA)
+- 🌱 I’m working now in TEDU 
 
 - 💞️ I’m currently learning QA Automation
 
