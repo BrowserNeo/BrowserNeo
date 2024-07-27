@@ -47,9 +47,11 @@
 BrowserNeo/BrowserNeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</br>
 
-
-
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
 ![Snake animation](https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg)
