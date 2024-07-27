@@ -15,16 +15,17 @@
   
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!;Nice+to+meet+you+...;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright)](https://git.io/typing-svg)
-  ##  
-  
+ 
+<br><br>
+<br><br>
+<br><br>  
+  ## 
 - 🌱 I’m working now in TEDU 
 
 - 💞️ I’m currently learning Dev'ops
 
 <br>
 
-
-<br><br>
 ## 💻 Technology stack
 
 <br>
