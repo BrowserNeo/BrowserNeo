@@ -19,7 +19,14 @@
 <br><br>
 <br><br>
 <br><br>  
-  ## 
+
+</br>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+
 - 🌱 I’m working now in TEDU 
 
 - 💞️ I’m currently learning Dev'ops
