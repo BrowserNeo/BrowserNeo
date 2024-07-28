@@ -89,3 +89,9 @@ You can click the Preview link to take a look at your changes.
 
 </h4>
 
+<h5 align="center">
+<a href="https://open.spotify.com/">
+  <img align="center" width="48%" src="https://novatorem.jcs090218.vercel.app/api/spotify" /></a>
+</h5>
+
+<br/>
