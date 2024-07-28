@@ -66,7 +66,16 @@ You can click the Preview link to take a look at your changes.
 
 ![Snake animation](https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg)
 
+
+<br/>
 <h4 align="center">
+<a href="https://open.spotify.com/">
+  <img align="center" width="48%" src="https://novatorem.jcs090218.vercel.app/api/spotify" /></a>
+</h4>
+
+<br/>
+
+<h5 align="center">
  
 <table>
   <tr>
@@ -79,20 +88,16 @@ You can click the Preview link to take a look at your changes.
     <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr> -->
  </table>
+</h5>
+
     
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h4 align="center">
+<h6 align="center">
 
-</h4>
+</h6>
 <br/>
 
-<h5 align="center">
-<a href="https://open.spotify.com/">
-  <img align="center" width="48%" src="https://novatorem.jcs090218.vercel.app/api/spotify" /></a>
-</h5>
-
-<br/>
