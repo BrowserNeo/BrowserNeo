@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 </h6>
 <br/>
 
-<div align="center" ><img alt="" width="100%" src="blob/main/assets/2016.png"></div>
+<div align="center" ><img alt="" height="400" width="100%" src="blob/main/assets/2016.png"></div>
 
 <br/>
 <div align="center">
