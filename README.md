@@ -75,20 +75,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<h5 align="center">
- 
-<table>
-  <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
- <!--  <tr>
-    <td><p align="center"><a href="https://github.com/D3vil0per?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
-  </tr> -->
- </table>
-</h5>
+
 
     
 <!--📏LINE-->
@@ -96,9 +83,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h6 align="center">
+<h5 align="center">
 
-</h6>
+</h5>
 <br/>
 
 <div align="center" ><img alt="" height="400" width="100%" src="blob/main/assets/2016.png"></div>
@@ -119,3 +106,18 @@ You can click the Preview link to take a look at your changes.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+
+<h6 align="center">
+ 
+<table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+ <!--  <tr>
+    <td><p align="center"><a href="https://github.com/D3vil0per?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+  </tr> -->
+ </table>
+</h6>
