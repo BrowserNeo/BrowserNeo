@@ -107,4 +107,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/browserneo/browserneo/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="blob/main/assets/2016.png"></div>
