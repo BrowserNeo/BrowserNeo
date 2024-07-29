@@ -31,7 +31,7 @@
 
 - 💞️ I’m currently learning Dev'ops
 
-<br>
+</br>
 
 ## 💻 Technology stack
 
@@ -100,6 +100,10 @@ You can click the Preview link to take a look at your changes.
 
 </h6>
 <br/>
+
+<div align="center" ><img alt="" width="100%" src="blob/main/assets/2016.png"></div>
+
+<br/>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
@@ -107,4 +111,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="blob/main/assets/2016.png"></div>
+
+</br>
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
