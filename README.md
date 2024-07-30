@@ -13,7 +13,7 @@
 
   
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!;Nice+to+meet+you+...;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright;Nice+to+meet+you!+...)](https://git.io/typing-svg)
  
 <br><br>
 <br><br>
@@ -102,42 +102,28 @@ You can click the Preview link to take a look at your changes.
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
-<h6 align="center">
- 
-<table>
-  <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
- <!--  <tr>
-    <td><p align="center"><a href="https://github.com/D3vil0per?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
-  </tr> -->
- </table>
-</h6>
 
-<img align="center" src="blob/main/assets/matrix.gif" width="100%">
+
 
 <br/>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=200&color=3fbf36&center=true&vCenter=true&lines=11+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=0+1+0+1+0+0+1+1+0+1+0+0+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+1" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=01+10+0+1+0+0+1+1+0+1+0+0+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+1" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=150&color=3fbf36&center=true&vCenter=true&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=*+1+0+1+0+*+1+1+0+*+0+1+*+*+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=250&color=3fbf36&center=true&vCenter=true&lines=*+1+0+1+0+*+1+1+0+*+0+1+*+*+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
  </a>
 </div>
 <div align="center">
