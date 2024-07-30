@@ -89,7 +89,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center" ><img alt="" height="400" width="100%" src="blob/main/assets/2016.png"></div>
 
-<img align="center" src="blob/main/assets/matrix.gif" width="100%">
 
 
 </br>
@@ -97,6 +96,7 @@ You can click the Preview link to take a look at your changes.
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
   
@@ -117,10 +117,32 @@ You can click the Preview link to take a look at your changes.
  </table>
 </h6>
 
+<img align="center" src="blob/main/assets/matrix.gif" width="100%">
+
 <br/>
+<div align="left">
+    <a href="https://git.io/typing-svg">
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
+ </a>
+</div>
+<div align="left">
+    <a href="https://git.io/typing-svg">
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+1" >
+ </a>
+</div>
+<div align="left">
+    <a href="https://git.io/typing-svg">
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
+ </a>
+</div>
+<div align="left">
+    <a href="https://git.io/typing-svg">
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=*+1+0+1+0+*+1+1+0+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
+ </a>
+</div>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=3fbf36&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
