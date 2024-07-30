@@ -1,5 +1,4 @@
 
-
 [![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/browserneo)
 
 <!--🪳ROACH&🕷️SPIDER--> 
@@ -90,12 +89,16 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center" ><img alt="" height="400" width="100%" src="blob/main/assets/2016.png"></div>
 
+<img align="center" src="blob/main/assets/matrix.gif" width="100%">
+
 
 </br>
 
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
