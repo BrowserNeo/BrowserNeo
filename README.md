@@ -122,22 +122,22 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+1" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=0+1+0+1+0+0+1+1+0+1+0+0+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+1" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=100&color=3fbf36&center=true&vCenter=true&width=435&lines=*+1+0+1+0+*+1+1+0+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=3fbf36&center=true&vCenter=true&lines=*+1+0+1+0+*+1+1+0+*+0+1+*+*+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
  </a>
 </div>
 <div align="center">
