@@ -1,6 +1,8 @@
 
 [![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/browserneo)
 
+
+
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="center">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50">
@@ -106,6 +108,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
+<img align="right" src="blob/main/assets/giphy.gif" width="400px">
 <div align="left">
     <a href="https://git.io/typing-svg">
       <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=200&color=82fa9e&center=true&vCenter=true&lines=11+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
