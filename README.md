@@ -28,11 +28,14 @@
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
+
+<img align="right" src="blob/main/assets/molo.gif" height="120">
+
 - 🌱 I’m working now in TEDU 
 
 - 💞️ I’m currently learning Dev'ops
 
-</br>
+<br>
 
 ## 💻 Technology stack
 
