@@ -15,7 +15,7 @@
 
   
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright;Nice+to+meet+you!+...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright;Nice+to+meet+you!)](https://git.io/typing-svg)
  
 <br><br>
 <br><br>
