@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 <h5 align="center">
 
 </h5>
-<br/>
+
 
 <div align="center" ><img alt="" height="350" width="100%" src="blob/main/assets/2016.png"></div>
 
@@ -109,8 +109,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-<br/>
+</br>
+</br>
 <img align="right" src="blob/main/assets/giphy.gif" width="400px">
 <div align="left">
     <a href="https://git.io/typing-svg">
