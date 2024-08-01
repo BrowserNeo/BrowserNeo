@@ -31,9 +31,9 @@
 
 <img align="right" src="blob/main/assets/molo.gif" height="120">
 
-- 🌱 I’m working now in TEDU 
+- 🌱 My current job is at TEDU. 
 
-- 💞️ I’m currently learning Dev'ops
+- 💞️ My current focus is on learning DevOps.
 
 <br>
 
