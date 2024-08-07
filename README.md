@@ -131,17 +131,17 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=150&color=59cf74&center=true&vCenter=true&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=150&color=38b555&center=true&vCenter=true&lines=1+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0" >
  </a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=250&color=59cf74&center=true&vCenter=true&lines=*+1+0+1+0+*+1+1+0+*+0+1+*+*+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
+      <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=250&color=38b555&center=true&vCenter=true&lines=*+1+0+1+0+*+1+1+0+*+0+1+*+*+*+*+0+0+1+1+0+*+0+0+*+1+1+0+1+*+*+*+*+*+*+*+*+*+*+*+*" >
  </a>
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=59cf74&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=38b555&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
