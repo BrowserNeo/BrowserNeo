@@ -25,7 +25,7 @@
 </br>
 <!--📏LINE-->
 <p align="center">
-<img src="blob/main/assets/line.gif" width="120%">
+<img src="blob/main/assets/line.gif" width="600" height="20">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
