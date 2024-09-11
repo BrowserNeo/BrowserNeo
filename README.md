@@ -42,10 +42,10 @@
 ## 💻 Technology stack
 
 <br>
-<h2 align="left">
-<img width="16%" title="Allure_Report.svg" src="steck/Allure_Report.svg"> <img width="16%" title="Jenkins.svg" src="steck/Jenkins.svg"> <img width="16%" title="Selenide.svg" src="steck/Selenide.svg"> <img width="20%" title="GitHub.svg" src="steck/GitHub.svg">   <img width="16%" title="Selenoid.svg" src="steck/Selenoid.svg">   <img src="steck/Selenium.svg" alt="Selenium" width="16%">   <img src="steck/Slack.svg" alt="Slack" width="16%">   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36%">    <img src="steck/Pycharm.svg" alt="Pycharm" width="16%">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16%"> 
+<h2 align="center">
+<img width="50" title="Allure_Report.svg" src="steck/Allure_Report.svg">   <img width="50" title="Jenkins.svg" src="steck/Jenkins.svg">   <img width="50" title="Selenide.svg" src="steck/Selenide.svg">   <img width="50" title="GitHub.svg" src="steck/GitHub.svg">   <img width="50" title="Selenoid.svg" src="steck/Selenoid.svg">   <img src="steck/Selenium.svg" alt="Selenium" width="50">   <img src="steck/Slack.svg" alt="Slack" width="50">   <img src="blob/main/assets/getpostman-icon.svg" width="50">    <img src="steck/Pycharm.svg" alt="Pycharm" width="50">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"> 
 <br>
-<img width="37%" title="Jmetr" src="steck/Apache_JMeter.png"> <img width="34%" title="Gatling" src="steck/Gatling-logo.png">
+<img width="100" title="Jmetr" src="steck/Apache_JMeter.png"> <img width="160" title="Gatling" src="steck/Gatling-logo.png">
 </h2>
 <h3> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h3>
 
