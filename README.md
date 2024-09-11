@@ -1,4 +1,5 @@
 
+<h1></h1>
 <p align="right">
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
 
@@ -12,24 +13,19 @@
 <p align="center">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50">
       
-       
-  <br>
-<img align="left" src="steck/wave.gif" width="30px">
- <br>
-<img align="right" width="350" src="blob/main/assets/lp-710x510-case-2-illustration.png"/>
+<p align="right">
 
+<img align="right" width="350" src="blob/main/assets/lp-710x510-case-2-illustration.png"/>
+<p align="left">
+<img src="steck/wave.gif" width="30px">
   
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2000&pause=500&lines=Hi!;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-<br><br>
-<br><br>
-<br><br>  
-
 </br>
 <!--📏LINE-->
 <p align="center">
-<img src="blob/main/assets/line.gif" height="20" width="100%">
+<img src="blob/main/assets/line.gif" width="120%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
@@ -46,10 +42,9 @@
 ## 💻 Technology stack
 
 <br>
-
-<img width="6%" title="Allure_Report.svg" src="steck/Allure_Report.svg"><
-<img width="6%" title="Jenkins.svg" src="steck/Jenkins.svg">   <img width="6%" title="Selenide.svg" src="steck/Selenide.svg">   <img width="6%" title="GitHub.svg" src="steck/GitHub.svg">   <img width="6%" title="Selenoid.svg" src="steck/Selenoid.svg">   <img src="steck/Selenium.svg" alt="Selenium" width="6%">   <img src="steck/Slack.svg" alt="Slack" width="6%">   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="6%">    <img src="steck/Pycharm.svg" alt="Pycharm" width="6%">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="6%"> 
-<br><h2 align="center">
+<h2 align="center">
+<img width="20%" title="Allure_Report.svg" src="steck/Allure_Report.svg"><img width="20%" title="Jenkins.svg" src="steck/Jenkins.svg"><img width="20%" title="Selenide.svg" src="steck/Selenide.svg"><img width="20%" title="GitHub.svg" src="steck/GitHub.svg">   <img width="20%" title="Selenoid.svg" src="steck/Selenoid.svg">   <img src="steck/Selenium.svg" alt="Selenium" width="20%">   <img src="steck/Slack.svg" alt="Slack" width="20%">   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20%">    <img src="steck/Pycharm.svg" alt="Pycharm" width="20%">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20%"> 
+<br>
 <img width="17%" title="Jmetr" src="steck/Apache_JMeter.png"> <img width="24%" title="Gatling" src="steck/Gatling-logo.png">
 </h2 align="center">
 <h3> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h3>
