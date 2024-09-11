@@ -94,9 +94,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h5 align="center">
 
-</h5>
 
 
 <div align="center" ><img alt="" height="350" width="100%" src="blob/main/assets/2016.png"></div>
@@ -107,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20">
 
 
 
