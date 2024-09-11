@@ -30,7 +30,7 @@
 </br>
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="blob/main/assets/line.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
     
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="blob/main/assets/line.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20">
+<img src="blob/main/assets/line.gif" height="20">
 
 
 
