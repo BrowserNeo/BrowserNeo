@@ -24,7 +24,7 @@
 
 <!--📏LINE-->
 <p align="center">
-<img src="blob/main/assets/line.gif" width="600">
+<img src="blob/main/assets/line.gif" height="20" width="100%">
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <p align="right">
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <h4 align="center">
 <a href="https://open.spotify.com/">
-  <img align="center" width="65%" src="https://novatorem.jcs090218.vercel.app/api/spotify" /></a>
+  <img align="center" width="45%" src="https://novatorem.jcs090218.vercel.app/api/spotify" /></a>
 </h4>
 
 <br/>
@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--📏LINE-->
 <p align="center">
-<img src="blob/main/assets/line.gif" height="20">
+<img src="blob/main/assets/line.gif" height="20" width="100%">
 
 
 
