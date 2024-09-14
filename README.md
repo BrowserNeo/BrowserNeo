@@ -22,6 +22,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2000&pause=500&lines=Hi!;I’m+George+...;QA+Engineer+...;Load+testing+...;QA+Automation+Python+...;QA+Automation+Playwright;Nice+to+meet+you!)](https://git.io/typing-svg)
 
+
+<br>
+
 <!--📏LINE-->
 <p align="center">
 <img src="blob/main/assets/line.gif" height="20" width="100%">
