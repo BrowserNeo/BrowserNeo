@@ -34,7 +34,7 @@
   
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <p align="right">
-<img src="blob/main/assets/molo.gif" height="120">
+<img src="blob/main/assets/molo.gif" width="15%">
 
 - 🌱 My current job is at TEDU. 
 
