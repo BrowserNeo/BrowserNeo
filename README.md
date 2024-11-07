@@ -16,7 +16,6 @@
       
 <p align="right">
 
-
 <img align="right" width="350" src="blob/main/assets/lp-710x510-case-2-illustration.png"/>
 
 <p align="left">
