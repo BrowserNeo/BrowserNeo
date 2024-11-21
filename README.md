@@ -130,7 +130,6 @@ You can click the Preview link to take a look at your changes.
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=2e9446&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
-
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 
 </br>
