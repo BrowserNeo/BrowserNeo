@@ -36,8 +36,6 @@
 <p align="right">
 <img src="blob/main/assets/molo.gif" width="15%">
 
-- 🌱 My current job is at "____". 
-
 - 💞️ My current focus is on learning ...
 
 <br>
