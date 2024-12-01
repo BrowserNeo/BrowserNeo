@@ -102,6 +102,7 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 </br>
+
 <img align="right" src="blob/main/assets/giphy.gif" width="400px">
 <div align="left">
     <a href="https://git.io/typing-svg">
