@@ -28,6 +28,13 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi!;I’m+George+...;Nice+to+meet+you!)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=500&lines=QA+Engineer+...;Load+testing+...;QA+Automation+Python+...)](https://git.io/typing-svg)
 <br>
+
+<!--🪳ROACH&🕷️SPIDER--> 
+<h5 align="center">     
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50">
+
+</h5>
+
 <!--📏LINE-->
 <p align="center">
 <img src="blob/main/assets/line.gif" height="20" width="100%">
