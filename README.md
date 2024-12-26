@@ -24,6 +24,7 @@
 
 <p align="left">
 <img src="steck/wave.gif" width="30px">
+
   
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi!;I’m+George+...;Nice+to+meet+you!)](https://git.io/typing-svg)
