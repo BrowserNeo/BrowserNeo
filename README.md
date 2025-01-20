@@ -98,7 +98,6 @@ You can click the Preview link to take a look at your changes.
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
 
-
 <div align="center" ><img alt="" height="350" width="100%" src="blob/main/assets/2016.png"></div>
 
 
