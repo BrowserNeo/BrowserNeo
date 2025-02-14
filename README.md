@@ -119,6 +119,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://git.io/typing-svg">
       <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=200&color=38b555&center=true&vCenter=true&lines=11+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0" >
  </a>
+     
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg">
