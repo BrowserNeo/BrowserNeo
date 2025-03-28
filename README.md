@@ -56,12 +56,16 @@
 <img width="100" title="Jmetr" src="steck/Apache_JMeter.png"> <img width="160" title="Gatling" src="steck/Gatling-logo.png">
 </h2>
 
-<h3> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h3>
-
-
+<h3 align="center"> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h3>
 <br>
+</h3>
+<h3 align="center">
+     
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:lagosh@inbox.ru)
+[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/BrowserNeo)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/browserneo)
 
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:lagosh@inbox.ru)[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/BrowserNeo)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/browserneo)
+</h3>
 
 ###
 
