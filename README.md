@@ -31,8 +31,6 @@
 <!--🪳ROACH&🕷️SPIDER--> 
 <h5 align="center">     
 <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50">
-
-
 </h5>
 
 <!--📏LINE-->
