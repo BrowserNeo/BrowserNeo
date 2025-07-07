@@ -32,14 +32,18 @@
 <h5 align="center">     
 <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50">
 
+
 </h5>
 
 <!--📏LINE-->
+
 <p align="center">
-<img src="blob/main/assets/line.gif" height="20" width="100%">
-  
+<img src="blob/main/assets/line.gif" height="20" width="100%"> 
+     
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+
 <p align="right">
+     
 <img src="blob/main/assets/molo.gif" width="15%">
      
 - 💞️ My current focus is on learning ...
