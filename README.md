@@ -30,7 +30,7 @@
 
 <!--🪳ROACH&🕷️SPIDER--> 
 <h5 align="center">     
-<img src="https://github.com/BrowserNeo/BrowserNeo/blob/master/blob/main/assets/spider-insect.gif" width="50">
+<img src="https://github.com/BrowserNeo/BrowserNeo/blob/master/blob/main/assets/spider-insect-2.gif" width="50">
 </h5>
 
 <!--📏LINE-->
