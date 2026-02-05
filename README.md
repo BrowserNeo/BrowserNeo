@@ -130,7 +130,6 @@ You can click the Preview link to take a look at your changes.
       <img alt="0110" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=14&pause=100&color=38b555&center=true&vCenter=true&lines=01+10+0+1+0+0+1+1+0+1+0+0+1+0+1+0+0+0+1+1+0+0+0+0+1+1+1+0+1+1+0+1+0+1+0+0+1+0+1+0+1+0+0+1+1+0+1+0+0+0+1+1+0+0+1" >
  </a>
 
-
 </div>
 
 <div align="left">
