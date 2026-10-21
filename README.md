@@ -25,7 +25,7 @@
   
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi!;I’m+George+...;Nice+to+meet+you!)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=500&lines=QA+Engineer+...;Load+testing+...;AQA+Python+...;AQA+Playwright+...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=500&lines=Pentest+...;QA+Engineer+...;Load+testing+...;AQA+Python+...;AQA+Playwright+...)](https://git.io/typing-svg)
 <br>
 
 <!--🪳ROACH&🕷️SPIDER--> 
